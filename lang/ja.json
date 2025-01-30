@@ -65,18 +65,18 @@
 
 "DND5E.ABILITY": {
   "Configure": {
-    "Title": "Configure {ability}"
+    "Title": "{ability}設定"
   },
   "SECTIONS": {
     "Bonuses": {
-      "Label": "{ability} Bonuses",
+      "Label": "{ability}ボーナス",
       "Hint": "These bonuses apply to checks & saves made with {ability}."
     },
     "Global": {
-      "Label": "Global Bonuses",
+      "Label": "ボーナス全般",
       "Hint": "These bonuses apply to checks & saves made with any ability."
     },
-    "Score": "{ability} Score"
+    "Score": "{ability}値"
   }
 },
 
@@ -99,7 +99,7 @@
 "DND5E.AbilitySan": "正気度",
 "DND5E.AbilitySanAbbr": "正気度",
 "DND5E.AbilityScore": "能力値",
-"DND5E.AbilityScoreShort": "Score",
+"DND5E.AbilityScoreShort": "値",
 "DND5E.AbilityScorePl": "能力値",
 "DND5E.AbilityScoreL": "{ability}値",
 "DND5E.AbilityScoreMax": "能力値の最大値",
@@ -2961,9 +2961,9 @@
     "LabelShort": "L. Rest",
     "Recovery": "大休憩後に回復",
     "Result": {
-      "Full": "{name} は大休憩を取り､ {health} HPと､ {dice}ヒット･ダイスを回復しました。",
-      "HitDice": "{name} は大休憩を取り､ {dice} ヒット･ダイスを回復しました。",
-      "HitPoints": "{name} は大休憩を取り､{health} HPを回復しました。",
+      "Full": "{name} は大休憩を取り､ {health}と､ {dice}を回復しました。",
+      "HitDice": "{name} は大休憩を取り､ {dice}を回復しました。",
+      "HitPoints": "{name} は大休憩を取り､{health}を回復しました。",
       "Short": "{name} は大休憩を取りました。"
     }
   },
