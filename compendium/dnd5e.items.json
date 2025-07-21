@@ -366,7 +366,7 @@
 		},
 		"Breastplate Armor of Resistance": {
 			"name": "ブレストプレート・アーマー・オヴ・レジスタンス／抵抗の鎧",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Brewer's Supplies": {
 			"name": "醸造用品",
@@ -470,7 +470,7 @@
 		},
 		"Chain Mail Armor of Resistance": {
 			"name": "チェイン・メイル・アーマー・オヴ・レジスタンス／抵抗の鎧",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Chain Shirt": {
 			"name": "チェイン・シャツ",
@@ -490,7 +490,7 @@
 		},
 		"Chain Shirt Armor of Resistance": {
 			"name": "チェイン・シャツ・アーマー・オヴ・レジスタンス／抵抗の鎧",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Chalk": {
 			"name": "チョーク",
@@ -1190,7 +1190,7 @@
 		},
 		"Half Plate Armor of Resistance": {
 			"name": "ハーフ・プレート ・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Hammer": {
 			"name": "ハンマー（鎚）",
@@ -1306,7 +1306,7 @@
 		},
 		"Hide Armor of Resistance": {
 			"name": "ハイド・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Holy Avenger Greatsword": {
 			"name": "ホーリィ・アヴェンジャー・グレートソード",
@@ -1522,7 +1522,7 @@
 		},
 		"Leather Armor of Resistance": {
 			"name": "レザー・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Leatherworker's Tools": {
 			"name": "革細工道具",
@@ -1898,7 +1898,7 @@
 		},
 		"Padded Armor of Resistance": {
 			"name": "パデッド・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Painter's Supplies": {
 			"name": "画材",
@@ -1994,7 +1994,7 @@
 		},
 		"Plate Armor of Resistance": {
 			"name": "プレート・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Playing Cards Set": {
 			"name": "ゲーム用カード一揃い",
@@ -2246,7 +2246,7 @@
 		},
 		"Ring Mail Armor of Resistance": {
 			"name": "リング・メイル・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Ring of Acid Resistance": {
 			"name": "リング・オヴ・アシッド・レジスタンス",
@@ -2466,7 +2466,7 @@
 		},
 		"Scale Mail Armor of Resistance": {
 			"name": "スケイル・メイル・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Scarab of Protection": {
 			"name": "スカラベ・オヴ・プロテクション／守りのスカラベ",
@@ -2762,7 +2762,7 @@
 		},
 		"Splint Armor of Resistance": {
 			"name": "スプリント・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Sprig of Mistletoe": {
 			"name": "ヤドリギの小枝",
@@ -2862,7 +2862,7 @@
 		},
 		"Studded Leather Armor of Resistance": {
 			"name": "スタデッド・レザー・アーマー・オヴ・レジスタンス",
-			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、以下の選択肢からランダムに決定する。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>ダメージ</strong> <strong>種別</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>[酸]</td>\n</tr>\n<tr>\n<td>2</td>\n<td>［冷気］</td>\n</tr>\n<tr>\n<td>3</td>\n<td>[火]</td>\n</tr>\n<tr>\n<td>4</td>\n<td>［力場］</td>\n</tr>\n<tr>\n<td>5</td>\n<td>[電撃]</td>\n</tr>\n<tr>\n<td>6</td>\n<td>[死霊]</td>\n</tr>\n<tr>\n<td>7</td>\n<td>[毒]</td>\n</tr>\n<tr>\n<td>8</td>\n<td>[精神]</td>\n</tr>\n<tr>\n<td>9</td>\n<td>[光輝]</td>\n</tr>\n<tr>\n<td>10</td>\n<td>[雷鳴]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調)</em></p>\n<p>この鎧を着ている間、君は1種類のダメージに対する抵抗を持つ。GMはその種類を選ぶか、@UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]表からランダムに決定する。</p>"
 		},
 		"Sun Blade": {
 			"name": "サン・ブレード／太陽剣",
@@ -3190,7 +3190,7 @@
 		},
 		"Wand of Wonder": {
 			"name": "ワンド・オヴ・ワンダー／びっくりワンド",
-			"description": "<p><em>(要同調・呪文の使い手による)</em></p>\n<p>このワンドは7チャージを有する。このワンドを手に持っている間、君は1回のアクションを使用してこのワンドのチャージを1つ消費し君から120フィート以内の目標を1つ選ぶことができる。目標はクリーチャー、物体、または空間内の一点でもよい。1d100をロールして後述の表を参照し、何が起きるのかを決めること。</p>\n<p>起きた効果が、このワンドから呪文を発動するものである場合、その呪文のセーヴ難易度は15である。その呪文が普通ならばフィート単位の射程を持つ呪文である場合、その射程は120フィートになる。効果が一定の範囲に広がる場合､君は目標を中心として、目標を含むように、その呪文の効果範囲を決めなければならない。その効果が影響を及ぼす可能性のある対象が複数存在する場合、どれが影響を受けるかはDMがランダムに決める。</p>\n<p>このワンドは夜明けごとに、消費済みのチャージを(1d6+1)回ぶん回復する。このワンドの最後のチャージを消費した時は、1d20をロールすること。1が出たならばワンドは破壊され、灰となって散る。</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>効果</strong></td>\n</tr>\n<tr>\n<td>01-05</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.yqUDoxk4x0NWG5Bz]を唱えた。</td>\n</tr>\n<tr>\n<td>06-10</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.nqBDWkVOfcGZt4YU]を唱えた。</td>\n</tr>\n<tr>\n<td>11-15</td>\n<td>君は何か畏るべきことが起きたと信じこみ、次の自分のターンの開始時まで朦朧状態になる。</td>\n</tr>\n<tr>\n<td>16-20</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]を唱えた。</td>\n</tr>\n<tr>\n<td>21-25</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]を、選択した目標にディテクト･ソウツ呪文を発動する。クリーチャー以外を目標に選んでいた場合、君は代わりに1d6[精神]ダメージを受ける。</td>\n</tr>\n<tr>\n<td>26-30</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]を唱えた。</td>\n</tr>\n<tr>\n<td>31-33</td>\n<td>目標を中心とした半径60フィートの範囲に激しい雨が降る。この範囲内は“軽度の隠蔽”になる。この雨は君の次のターンの開始時まで降り続ける。</td>\n</tr>\n<tr>\n<td>34-36</td>\n<td>目標に最も近い何ものにも占められていない場所に、1体の動物が現れる。この動物は君の制御下にあるわけではなく、普通の動物として行動する。1d100をロールして現れる動物を決めること。\n01〜25では@UUID[Compendium.dnd5e.monsters.Actor.SBCe2BSa6opTS5M4]が、26〜50では@UUID[Compendium.dnd5e.monsters.Actor.jLPhaBnMtAbB5dp1]が、そして51〜100では@UUID[Compendium.dnd5e.monsters.Actor.pozQUPTnLZW8epox]が出現します。</td>\n</tr>\n<tr>\n<td>37-46</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]を唱えた。</td>\n</tr>\n<tr>\n<td>47-49</td>\n<td>目標を中心とした半径30フィートの範囲内を、600匹の異様に大きな蝶々が飛び交う。この範囲内は“重度の隠蔽”になる。この蝶々たちは10分間持続する。</td>\n</tr>\n<tr>\n<td>50-53</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]呪文を発動したかのように、目標は大きくなる。目標がこの呪文の作用を受けないクリーチャーであるか、君がクリーチャー以外を目標に選んでいた場合、代わりに君がこの呪文の目標になる。</td>\n</tr>\n<tr>\n<td>54-58</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.S7VbUetIfVT7B6Eq]を唱えた。</td>\n</tr>\n<tr>\n<td>59-62</td>\n<td>目標を中心とした半径60フィートの地面に草が茂る。すでに草が茂っているなら、既存の草が普通の10倍の大きさに生長する。こうして生長した草は1分後に元に戻る｡</td>\n</tr>\n<tr>\n<td>63-65</td>\n<td>DMが選んだ物体1つがエーテル界に消え去る。その物体は目標から120フィート以内にあり、縦横高さがいずれも10フィートを越えない大きさの、着用も運搬もされていない物体でなければならない。</td>\n</tr>\n<tr>\n<td>66-69</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]を自分自身にかけたかのように自分を縮める。</td>\n</tr>\n<tr>\n<td>70-79</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]を自分に唱えた。</td>\n</tr>\n<tr>\n<td>80-84</td>\n<td>君は@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]を自分自身に唱えた。</td>\n</tr>\n<tr>\n<td>85-87</td>\n<td>目標に無数の葉が生える。君が目標として空間内の一点を選んでいた場合、その点に最も近いクリーチヤー1体の体から葉が生える。この葉は、むしり取られない限り、24時間後に枯れて落ちる。</td>\n</tr>\n<tr>\n<td>88-90</td>\n<td>各1gpの価値のある宝石が(1d4×10)個、このワンドの先端から長さ30フィート幅5フィートの直線状に噴き出す｡それぞれの宝石は1［殴打]ダメージを与える｡全部の宝石による合計ダメージを、直線状の範囲内のクリーチャー全員に頭割りで与えること。</td>\n</tr>\n<tr>\n<td>91-95</td>\n<td>君から半径30フィートの範囲に、極彩色のゆらめく閃光が放たれる。君および、範囲内にいてものを見ることができるクリーチャー全員は、難易度15の【耐久力】セーヴを行なわねばならず、失敗すると1分間、盲目状態になる。こうして盲目状態になったクリーチャーは自分の各ターンの終了時に再びこのセーヴを行なうことができ、成功すればそのクリーチャーに関してこの効果は終了する｡</td>\n</tr>\n<tr>\n<td>96-97</td>\n<td>目標の肌は1d10日間、鮮やかな青に変わる。君が目標として空間内の1点を選んでいた場合、その点に最も近いクリーチヤー1体がこの作用を受ける</td>\n</tr>\n<tr>\n<td>98-00</td>\n<td>君がクリーチャーを目標に選んでいた場合、目標は難易度15の【耐久力】セーヴを行なわねばならない。クリーチヤーを目標に選んでいなかった場合は、君がこの効果の目標になり、同じセーヴを行なわねばならない｡このセーヴが5以上の差で失敗したなら、目標は即座に石化する。それ以外の失敗の場合、目標は拘束状態になり、徐々に石へ変わり始める。こうして拘束状態になっている目標は、自分の各ターンの終了時に再びこのセーヴを行わねばならない。失敗すると石化状態になり、成功すればこの効果は終了する。この石化は、目標がグレーター・レストレーションや類似の魔法で解放されるまで持続する｡</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(要同調・呪文の使い手による)</em></p>\n<p>このワンドは7チャージを有する。このワンドを手に持っている間、君は1回のアクションを使用してこのワンドのチャージを1つ消費し君から120フィート以内の目標を1つ選ぶことができる。目標はクリーチャー、物体、または空間内の一点でもよい。@UUID[Compendium.dnd5e.tables.RollTable.X03rbSjVcNNJNqa8]表をロールし、何が起きるのかを決めること。</p>\n<p>起きた効果が、このワンドから呪文を発動するものである場合、その呪文のセーヴ難易度は15である。その呪文が普通ならばフィート単位の射程を持つ呪文である場合、その射程は120フィートになる。効果が一定の範囲に広がる場合､君は目標を中心として、目標を含むように、その呪文の効果範囲を決めなければならない。その効果が影響を及ぼす可能性のある対象が複数存在する場合、どれが影響を受けるかはDMがランダムに決める。</p>\n<p>このワンドは夜明けごとに、消費済みのチャージを(1d6+1)回ぶん回復する。このワンドの最後のチャージを消費した時は、1d20をロールすること。1が出たならばワンドは破壊され、灰となって散る。</p>"
 		},
 		"War Pick": {
 			"name": "ウォー・ピック",

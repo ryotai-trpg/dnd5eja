@@ -253,6 +253,30 @@
         "Help": {
           "name": "援護",
           "text": "<p>君は他のクリーチャーの何らかの作業を援護できる。君が援護アクションを行なうと、君の次のターンの開始時までに、君の援護を受けたクリーチャー1体が、君が援護した作業のために行なう、次の1回の能力値判定に有利がつく。</p><p>また君は、自分から5フィート以内にいるクリーチャー1体に対する、君と友好的なクリーチャーの攻撃を援護できる。君はフェイントをしかけたり、目標の気を逸らせたり、その他何らかの方法によって、味方の攻撃の効果を向上させるのである。君の次のターンの開始時までに、君の味方のいずれかがその目標を攻撃するなら、そのうちいちばん最初の攻撃ロールに有利がつく。</p>"
+        },
+        "Hide": {
+          "name": "隠れ身",
+          "text": "<p>隠れ身アクションを行なう際、君は隠れ身のルールに従って、隠れるために【敏捷力】〈隠密〉判定を行なう。この判定に成功した場合、君は@UUID[Compendium.dnd5e.rules.JournalEntry.6PfYpwxkdQkyS6b7.JournalEntryPage.twd4zj7m1n9sBaVG#unseen-attackers-and-targets]{見えない攻撃者・見えない目標}で説明されているとおりの利益を得る。</p>"
+        },
+        "Dodge": {
+          "name": "回避",
+          "text": "<p>君が回避アクションを取る際、君は攻撃を避けることに専念する。君の次のターンの開始時まで、君に対するあらゆる攻撃には(君から攻撃者が見えているかぎり)不利がつき、また君のすべての【敏捷力】セーヴに有利がつく。君が&Reference[Incapacitated](@UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0]参照)であるか、君の移動速度が0に低下しているなら、これらの利益は得られない。</p>"
+        },
+        "Ready": {
+          "name": "待機",
+          "text": "<p>敵の機先を制したいとか、特定の状況が発生するまで行動を起こすのを遅らせたいという時もあるだろう。君はそのために、自分のターンに待機アクションを取ることができる。そうすれば、次の君のターンの開始時よりも前のどこかで、君のリアクションを用いて行動することができるようになる。</p><p>まず、リアクションの“トリガー”(作動条件)となる状況を決める(知覚可能な状況に限る)。次に、そのトリガーに対して行なうアクションを1つ選ぶ。あるいは、そのトリガーに対応して、最大で自分の移動速度までの移動を行なうことも選べる。たとえば、「あのカルト教団員が落とし戸を踏んだら、俺はレバーを引いて落とし戸を開ける」「あのゴブリンが私の隣まで来たら、私は移動して離れる」のように宣言すること。</p><p>君が指定した“トリガー”が発生したなら、君はそのトリガーの処理が終わった直後に(あらかじめ宣言したとおりの) リアクションを行なってもよいし、そのトリガーを無視してもよい。</p><p>呪文を待機する際には、君は通常どおりその呪文を発動するが、呪文の効果はすぐに発揮されず、君はそのエネルギーを保持し続ける。そしてトリガーが発生した時点で、君はリアクションを用いて、保持していた呪文を解き放つ。待機アクションに使う呪文は発動時間が1アクションでなければならず、また待機によって呪文の魔力を保持し続けるには精神集中(第10章参照)を要する。君の精神集中が乱された場合、保持していた呪文は効果を発揮せずに消え去る。たとえば、君が@UUID[Compendium.dnd5e.spells.Item.UJJu9c2UvCzVljiP]の呪文に精神集中している間に@UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]の呪文を待機した場合、君のウェブ呪文は終了してしまう。さらに、君がリアクションを用いてマジック・ミサイルを放つ前に君がダメージを受けたなら、君の(マジック・ミサイルに対する) 精神集中も途切れてしまう可能性がある。</p>"
+        },
+        "Search": {
+          "name": "捜索",
+          "text": "<p>捜索アクションを取る際、君は何かを見つけ出すことに専念する。君の捜索の内容しだいで、DMは君に【判断力】〈知覚〉判定または【知力】〈捜査〉判定を行なわせるだろう。</p>"
+        },
+        "Use an Object": {
+          "name": "物体の操作",
+          "text": "<p>物体を扱うのは何か他のことをする過程で行なわれることが多い。たとえば、攻撃の一部として剣を抜くように。だが、使用するためにアクションが必要となるような物体に関しては、“物体の操作”というアクションの出番だ。1ターンに2つ以上の物体を扱いたい場合も、このアクションを使うことになる。</p>"
+        },
+        "Unseen Attackers and Targets": {
+          "name": "見えない攻撃者・見えない目標",
+          "text": "<p>戦闘参加者はしばしば、敵の目を逃れるために、物陰に隠れたり、@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]の呪文を発動したり、闇の中に潜んだりする。</p><p>君から見えない目標を攻撃する時、君は攻撃ロールに不利を受ける。目標がいそうな位置をあてずっぽうで攻撃するのであれ、音はすれども姿は見えないクリーチャーを目標として攻撃するのであれ、不利を受けることに変わりはない。君が狙った位置に目標がいない場合、君の攻撃は自動的にミスする。ただしその場合、DMは単に「君の攻撃はミスした」とだけ告げるのが普通であり、君が推測した目標の位置があっていたのかどうかは分からない。</p><p>あるクリーチャーが君を見ることができていないなら、君はそのクリーチャーに対する攻撃ロールに有利を得る。</p><p>攻撃の際に君が隠れていた場合―――つまり君の姿を見られず、君の立てる音も聞かれていなかった場合――君の攻撃がヒットまたはミスした時点で君の位置はバレてしまう。</p>"
         }
 			}
 		},
@@ -372,6 +396,15 @@
 				}
 			}
 		},
+		"Chapter 9: Combat": {
+      "name": "第9章：戦闘",
+      "pages": {
+        "Actions in Combat": {
+          "name": "戦闘中のアクション",
+          "text": " <p>君が自分のターンにアクションを行なう際には、(1) 以下のようなアクション、(2) 自分のクラスや特殊な特徴から得たアクション、(3) その場で思いついたアクション、のいずれか1つを行なうことができる。多くのモンスターにおいては、行なえるアクションの選択肢がデータ・ブロックに列挙されている。</p><p>君がルールのどこにも書かれていないようなアクションを行ないたいと宣言した場合は、そのアクションが可能かどうか、そのアクションの成否をどんなロールで決定するか(あるいはロールが不要か) をDMが判断する。</p><h2>攻撃</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.u4GQCzoBig20yRLj inline]</p><h2>呪文の発動</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.GLwN36E4WXn3Cp4Z inline]</p><h2>早足</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.Jqn0MEvq6fduYNo6 inline]</p><h2>離脱</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ZOPRfI48NyjoloEF inline]</p><h2>回避</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.V1BkwK2HQrtEfa4d inline]</p><h2>援護</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.KnrD3u2AnQfmtOWj inline]</p><h2>隠れ身</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.BXlHhE4ZoiFwiXLK inline]</p><h2>待機</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.8xJzZVelP2AmQGfU inline]</p><h2>捜索</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.5cn1ZTLgQq95vfZx inline]</p><h2>物体の操作</h2><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ljqhJx8Qxu2ivo69 inline]</p>"
+        }
+      }
+    },
 		"Chapter 10: Spellcasting": {
 			"name": "第10章：呪文",
 			"pages": {

@@ -239,7 +239,7 @@
 "DND5E.ACTIVEEFFECT": {
   "FIELDS": {
     "statuses": {
-      "label": "状態異常",
+      "label": "状態",
       "hint": "このアクティブ効果の影響下にある間、目標は次の追加の効果も適用される。"
     }
   }
@@ -1053,7 +1053,7 @@
 },
 
 "DND5E.Casting": "発動",
-"DND5E.Conditions": "状態異常",
+"DND5E.Conditions": "状態",
 
 "DND5E.CONTAINER": {
   "Details": "容器の詳細",
@@ -1286,22 +1286,22 @@
 "DND5E.ContextMenuActionUnattune": "同調解除",
 "DND5E.ContextMenuActionEnable": "有効化",
 "DND5E.ContextMenuActionDisable": "無効化",
-"DND5E.ContextMenuActionView": "View",
-"DND5E.Contiguous": "Contiguous",
+"DND5E.ContextMenuActionView": "表示",
+"DND5E.Contiguous": "隣接",
 "DND5E.ConBlinded": "盲目状態",
 "DND5E.ConCharmed": "魅了状態",
 "DND5E.ConDeafened": "聴覚喪失状態",
 "DND5E.ConDiseased": "病気状態",
 "DND5E.CONDITIONS": {
   "RiderConditions": {
-    "label": "追加の状態異常",
+    "label": "追加の状態",
     "hint": "このアクティブ効果の影響下にある間、目標は次の追加の効果も適用される。"
   }
 },
 "DND5E.ConExhaustion": "消耗状態",
 "DND5E.ConFrightened": "恐怖状態",
 "DND5E.ConGrappled": "つかまれた状態",
-"DND5E.ConImm": "状態異常完全耐性",
+"DND5E.ConImm": "状態完全耐性",
 "DND5E.ConIncapacitated": "無力状態",
 "DND5E.ConInvisible": "不可視状態",
 "DND5E.ConParalyzed": "麻痺状態",
@@ -2343,7 +2343,7 @@
     "Label": "クラス特徴",
     "ArcaneShot": "秘術射撃",
     "ArtificerInfusion": "魔具化式",
-    "ChannelDivinity": "神聖伝導",
+    "ChannelDivinity": "神性伝導",
     "DefensiveTactic": "守りの技",
     "EldritchInvocation": "妖術",
     "ElementalDiscipline": "元素の技法",
@@ -2353,7 +2353,7 @@
     "Maneuver": "戦技",
     "Metamagic": "呪文修正",
     "Multiattack": "複数回攻撃",
-    "PactBoon": "契約の恩寵",
+    "PactBoon": "契約の恩恵",
     "PsionicPower": "サイオニック能力",
     "Rune": "ルーン",
     "SuperiorHuntersDefense": "上級の守りの技"
@@ -3996,8 +3996,8 @@
 "DND5E.TraitArmorLegacyPlural.one": "防具習熟",
 "DND5E.TraitArmorLegacyPlural.other": "防具習熟",
 "DND5E.TraitArmorLegacyProf": "防具習熟",
-"DND5E.TraitCIPlural.one": "状態異常完全耐性",
-"DND5E.TraitCIPlural.other": "状態異常完全耐性",
+"DND5E.TraitCIPlural.one": "状態完全耐性",
+"DND5E.TraitCIPlural.other": "状態完全耐性",
 "DND5E.TraitConfig": "{trait}設定",
 "DND5E.TraitConfigChooseAnyCounted": "任意の{type}{count}つ",
 "DND5E.TraitConfigChooseAnyUncounted": "任意の{type}",
