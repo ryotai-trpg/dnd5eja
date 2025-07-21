@@ -1403,7 +1403,7 @@
       "Label": "ロッド"
     },
     "Scroll": {
-      "Label": "スクロール"
+      "Label": "巻物"
     },
     "Trinket": {
       "Label": "その他"
@@ -3229,12 +3229,12 @@
 "DND5E.SaveBonus": "セーヴ・ボーナス",
 "DND5E.SaveGlobalBonusHint": "このボーナスはこのキャラクターのすべてのセーヴに加算されます。",
 "DND5E.Scroll": {
-  "CreateFrom": "{spell}呪文からスクロール作成",
-  "CreateScroll": "スクロール作成",
-  "Details": "スクロール詳細",
+  "CreateFrom": "{spell}呪文から巻物作成",
+  "CreateScroll": "巻物作成",
+  "Details": "巻物詳細",
   "Explanation": {
     "Label": "説明の文量",
-    "Hint": "作成された呪文スクロールに含まれるルール説明文の長さを設定します。",
+    "Hint": "作成された呪文の巻物に含まれるルール説明文の長さを設定します。",
     "Complete": "すべて",
     "Reference": "参照のみ"
   },
@@ -3473,7 +3473,7 @@
 "DND5E.SpellProgression": "レベルごとの呪文数",
 "DND5E.SpellsSearch": "呪文を検索",
 "DND5E.SpellSchool": "呪文の系統",
-"DND5E.SpellScroll": "呪文スクロール",
+"DND5E.SpellScroll": "呪文の巻物",
 "DND5E.SpellSlotExpended": "消費済みスロット",
 "DND5E.SpellSlotN.one": "呪文スロット{n}",
 "DND5E.SpellSlotN.two": "呪文スロット{n}",
