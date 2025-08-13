@@ -4686,7 +4686,7 @@
   "RollRequest": "ロール要求",
   "SaveShort": "{save}",
   "SaveLong": "{save}セーヴィング・スロー",
-  "SpecificCheck": "{ability}〈{type}〉",
+  "SpecificCheck": "【{ability}】〈{type}〉",
   "Warning": {
     "NoActivityOnItem": "{item} または {actor} は {activity} という名称の用途を所持していません。",
     "NoActor": "このロールを行える選択されたキャラクターが見つかりませんでした。",
