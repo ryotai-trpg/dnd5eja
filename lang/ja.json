@@ -3492,7 +3492,7 @@
 "DND5E.SenseTruesight": "超視覚",
 "DND5E.SenseUnits": "単位",
 "DND5E.SenseSpecial": "その他",
-"DND5E.Shape": "形態",
+"DND5E.Shape": "形状",
 
 "DND5E.SheetClass": {
   "Character": "デフォルト5eキャラクターシート",
@@ -3513,8 +3513,8 @@
   "Vehicle": "デフォルト5e乗り物シート"
 },
 
-"DND5E.SheetModeEdit": "編集モード",
-"DND5E.SheetModePlay": "プレイモード",
+"DND5E.SheetModeEdit": "編集",
+"DND5E.SheetModePlay": "プレイ",
 "DND5E.SavingThrow": "セーヴィング･スロー",
 "DND5E.SavingThrowDC": "難易度 {dc} {ability} セーヴィング・スロー",
 "DND5E.SavingThrowRoll": "{ability} セーヴィング・スローをロール",
@@ -5344,7 +5344,7 @@
       "Name": "レベリングモード",
       "NoXP": "XPなしのレベルアップ",
       "XP": "経験値",
-      "XPBoons": "経験値とエピック・ブーン"
+      "XPBoons": "経験値と偉業の証"
     },
     "ProficiencyModifier": {
       "Bonus": "PHB: ボーナス（+2, +3, +4, +5, +6）",
