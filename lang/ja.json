@@ -2361,9 +2361,9 @@
     "Award": "経験点と貨幣を与える"
   },
   "Difficulty": {
-    "high": "高難易度",
-    "low": "低難易度",
-    "moderate": "中難易度"
+    "high": "死地",
+    "low": "通常",
+    "moderate": "困難"
   },
   "Tab": {
     "Description": "説明",
@@ -3532,7 +3532,7 @@
         "label": "無視する関係性"
       },
       "magical": {
-        "hint": "この移動困難な地形は魔法効果によって作られています。",
+        "hint": "この移動困難な地形は魔法的な効果によって作られています。",
         "label": "魔法的"
       },
       "types": {
@@ -4641,9 +4641,9 @@
 "DND5E.ToolThieves": "盗賊道具",
 "DND5E.ToolVehicle": "乗り物(地上/水上)",
 "DND5E.TraitAll": "すべての{category}",
-"DND5E.TraitArmorPlural.one": "鎧の訓練",
-"DND5E.TraitArmorPlural.other": "鎧の訓練",
-"DND5E.TraitArmorProf": "鎧の訓練",
+"DND5E.TraitArmorPlural.one": "防具訓練",
+"DND5E.TraitArmorPlural.other": "防具訓練",
+"DND5E.TraitArmorProf": "防具訓練",
 "DND5E.TraitArmorLegacyPlural.one": "防具習熟",
 "DND5E.TraitArmorLegacyPlural.other": "防具習熟",
 "DND5E.TraitArmorLegacyProf": "防具習熟",
@@ -5453,14 +5453,14 @@
   "Mastery": {
     "Label": "武器マスタリー",
     "Flavor": "マスタリー",
-    "Cleave": "薙ぎ払い (Cleave)",
-    "Graze": "かすめ打ち (Graze)",
-    "Nick": "連撃 (Nick)",
-    "Push": "押し出し (Push)",
-    "Sap": "かく乱 (Sap)",
-    "Slow": "足止め (Slow)",
-    "Topple": "足払い (Topple)",
-    "Vex": "崩し (Vex)"
+    "Cleave": "クリーヴ",
+    "Graze": "グレイズ",
+    "Nick": "ニック",
+    "Push": "プッシュ",
+    "Sap": "サップ",
+    "Slow": "スロウ",
+    "Topple": "トップル",
+    "Vex": "ヴェックス"
   }
 },
 
@@ -5518,7 +5518,7 @@
 "EFFECT.DND5E": {
   "StatusBleeding": "出血",
   "StatusBloodied": "重傷",
-  "StatusBurning": "炎上",
+  "StatusBurning": "着火",
   "StatusBurrowing": "穴掘り中",
   "StatusConcentrating": "集中",
   "StatusCursed": "呪い",
@@ -5534,13 +5534,13 @@
   "StatusHeavilyEncumbered": "重荷重",
   "StatusHiding": "隠れ身",
   "StatusHovering": "浮遊",
-  "StatusMalnutrition": "栄養失調",
+  "StatusMalnutrition": "飢餓",
   "StatusMarked": "マーク",
   "StatusSilenced": "沈黙",
   "StatusSleeping": "睡眠",
   "StatusStable": "容態安定",
   "StatusSuffocation": "窒息",
-  "StatusSurprised": "驚き",
+  "StatusSurprised": "不意打ち",
   "StatusThreeQuartersCover": "3/4遮蔽",
   "StatusTotalCover": "完全遮蔽",
   "StatusTransformed": "変化中"
